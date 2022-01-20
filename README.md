@@ -1,6 +1,6 @@
 # Portfolio
 
-On this project I will start building my [**personal portfolio.**](https://ikergonzalez.dev)
+On this project I will start building my [**personal portfolio.**](https://www.ikergonzalez.dev/)
 
 For starters, I have managed to connect my custom domain! ✌
 
