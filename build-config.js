@@ -6,7 +6,7 @@ module.exports = {
   VIEWS_DIR: __dirname + '/views',
   PARTIALS_DIR: __dirname + '/views/partials',
   STYLES_DIR: __dirname + '/styles',
-  OUTPUT_DIR: __dirname + '/',
+  OUTPUT_DIR: __dirname + '/public',
 
   TEMPLATE_FILENAME: 'resume.hbs',
   HTML_FILENAME: 'index.html',
