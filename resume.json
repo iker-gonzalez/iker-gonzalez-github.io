@@ -31,51 +31,82 @@
       {
         "name": "Aiag Asesores",
         "position": "CTO & Co-founder",
-        "website": "http://piedpiper.com",
-        "startDate": "2014-04-13",
-        "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+        "website": "https://www.aiagasesores.com/",
+        "startDate": "2018-12-01",
+        "summary": "Aiag Asesores is a tech-centric small business consulting firm focused on providing tailored legal, tax, labor and bookeping services.",
         "highlights": [
-          "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-          "Successfully won Techcrunch Disrupt",
-          "Optimized an algorithm that holds the current world record for Weisman Scores"
+          "Build the digital presence of the company from scratch",
+          "Orquestrated back-end automations using Zapier and Google Apps Script (Javascript)",
+          "Website development and SEO (positioned first on Googlein various long tail keywords)",
+          "Developed the companies ERP with Apsheet's technology"
         ]
       },
       {
-        "name": "Environment Agencyy",
-        "position": "Software Engineer",
-        "website": "http://www.hooli.xyz/",
-        "startDate": "2013-01-01",
-        "endDate": "2014-04-06",
-        "summary": "Worked on optimizing the backend algorithms for Hooli"
-      }
-    ],
-    "volunteer": [
-      {
-        "organization": "CoderDojo",
-        "position": "Teacher",
-        "website": "http://coderdojo.com/",
-        "startDate": "2012-01-01",
-        "endDate": "2013-01-01",
-        "summary": "Global movement of free coding clubs for young people.",
-        "highlights": ["Awarded 'Teacher of the Month'"]
+        "name": "Environment Agency",
+        "position": "Planning Advisor Intern",
+        "website": "https://www.gov.uk/government/organisations/environment-agency",
+        "startDate": "2018-07-01",
+        "endDate": "2018-10-01",
+        "highlights": [
+          "Constraints check using Easimap2 Permitting software",
+          "Environmental Impact Assessments (EIA)",
+          "Meetings between developers, Local Planning Authorities (LPA) and Environment Agency's consultees",
+          "Team working along with Biodiversity, Fisheries, Flood Risk, Strategic Planning and Groundwater Contamination teams"
+        ]
       }
     ],
     "education": [
       {
         "institution": "42",
         "area": "Computer Science",
-        "studyType": "B.S",
-        "location": "Palo Alto, CA",
-        "specialization": "Machine Learning",
-        "startDate": "2011-06-01",
-        "endDate": "2014-01-01",
-        "gpa": "GPA 4.0",
-        "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+        "studyType": "Program",
+        "location": "Urduliz, Basque Country",
+        "website": "https://42.fr/en/homepage/",
+        "startDate": "2021-04-12",
+        "summary": "No teachers, peer to peer learning, open 24/7, gamified project-based methodology, international network. One of the most innovative coding schools in the world."
+      },
+      {
+        "institution": "Brunel University London",
+        "area": "Technology & Innovation Management",
+        "studyType": "MSc",
+        "location": "London, UK",
+        "website": "https://www.brunel.ac.uk/",
+        "startDate": "2018-01-12",
+        "endDate": "2019-07-12",
+        "summary": "Grade: Distinction"
+      },
+      {
+        "institution": "University of London",
+        "area": "Digital Innovation",
+        "studyType": "PGDip",
+        "location": "London, UK",
+        "website": "https://london.ac.uk/",
+        "startDate": "2020-11-12",
+        "summary": "Academic direction from The London School of Economics"
+      },
+      {
+        "institution": "University of Deusto",
+        "area": "Law & Economics",
+        "studyType": "LLB",
+        "location": "Bilbao, Spain",
+        "website": "https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto",
+        "startDate": "2012-09-12",
+        "endDate": "2016-07-12",
+        "summary": "Grade: First-Class Honours"
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Circular Economy Club (CEC)",
+        "position": "Bilbao Local Organizer",
+        "website": "https://www.circulareconomyclub.com/",
+        "startDate": "2019-01-01",
+        "summary": "CEC is the international network of the circular economy field which builds strong local clubs who design, implement and support circular local initiatives."
       }
     ],
     "awards": [
       {
-        "title": "Digital Compression Pioneer Award",
+        "title": "Digital Compreion Pioneer Award",
         "date": "2014-11-01",
         "awarder": "Techcrunch",
         "summary": "There is no spoon."
