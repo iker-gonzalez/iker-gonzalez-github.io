@@ -1,0 +1,8 @@
+{{#if resume.projects.length}}
+<section>
+	<h2>Projects</h2>
+	{{#each resume.projects}}
+    {{> section-item keyword-section-item title=title subtitle=subtitle website=website subtitle=awarder date=date text=summary list=highlights}}
+	{{/each}}
+</section>
+{{/if}}

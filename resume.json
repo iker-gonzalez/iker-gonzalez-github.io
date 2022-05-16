@@ -4,9 +4,7 @@
       "label": "Software Developer",
       "picture": "http://www.piedpiper.com/app/themes/pied-piper/dist/images/richard.png",
       "email": "ikergpe@gmail.com",
-      "phone": "+34 646 652 091",
-      "website": "http://ikergonzalez.dev",
-      "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+      "summary": "After co-founding Aiag and building the company's digital infrastructure, I am eager to grow as a software developer in a dynamic and progressive company where my skills are utilized to the fullest extent possible.",
       "location": {
         "address": "Newell Road",
         "postalCode": "94303",
@@ -27,6 +25,55 @@
         }
       ]
     },
+    "projects": [
+      {
+        "title": "Minishell - C",
+        "subtitle": "Signals, Processes, Pipes, Readline",
+        "website": "https://github.com/iker-gonzalez/42_minishell",
+        "highlights": [
+          "A Bash-inspired shell with a prompt and a working history",
+          "Quotes interpretation, environment variables expansion, redirections, pipes, builtins, and signals"
+        ]
+      },
+      {
+        "title": "Philosophers - C",
+        "subtitle": "Multithreading, Pthread API, Mutexes, Processes, Semaphores",
+        "website": "https://github.com/iker-gonzalez/42_cursus/tree/main/10_philosophers",
+        "highlights": [
+          "42's take on the classic Dining philosophers problem",
+          "Mandatory part with threads and mutexes; bonus part with processes and semaphores"
+        ]
+      },
+      {
+        "title": "Push Swap - C",
+        "subtitle": "Sorting algorithm, Linked lists",
+        "website": "https://github.com/iker-gonzalez/42_cursus/tree/main/06_push_swap",
+        "highlights": [
+          "Sort data on a stack, with a limited set of instructions, using the lowest possible number of actions",
+          "The two available stacks were managed with linked lists"
+        ]
+      },
+      {
+        "title": "So Long",
+        "subtitle": "Signals, Bitwise operations",
+        "website": "https://github.com/iker-gonzalez/42_cursus/tree/main/07_so_long",
+        "highlights": [
+          "Small top-down, 2D game with textures, sprites, and basic gameplay",
+          "Move the character around and collect enough collectibles to unlock the exit",
+          "In the bonus version, a move counter is shown on the screen and enemies roam the board to kill the player"
+        ]
+      },
+      {
+        "title": "Minitalk",
+        "subtitle": "MiniLibX",
+        "website": "https://github.com/iker-gonzalez/42_cursus/tree/main/08_minitalk",
+        "highlights": [
+          "Small data exchange program using UNIX signals and bitwise operations",
+          "A server listens for signals emitted by a client. The client receives a string as a parameter and sends it as binary to the server. The server receives the signals and output them to the console"
+        ]
+      }
+      
+    ],
     "work": [
       {
         "name": "Aiag Asesores",
@@ -66,6 +113,15 @@
         "summary": "No teachers, peer to peer learning, open 24/7, gamified project-based methodology, international network. One of the most innovative coding schools in the world."
       },
       {
+        "institution": "University of London",
+        "area": "Digital Innovation",
+        "studyType": "PGDip",
+        "location": "London, UK",
+        "website": "https://london.ac.uk/",
+        "startDate": "2020-11-12",
+        "summary": "Academic direction from The London School of Economics"
+      },
+      {
         "institution": "Brunel University London",
         "area": "Technology & Innovation Management",
         "studyType": "MSc",
@@ -74,15 +130,6 @@
         "startDate": "2018-01-12",
         "endDate": "2019-07-12",
         "summary": "Grade: Distinction"
-      },
-      {
-        "institution": "University of London",
-        "area": "Digital Innovation",
-        "studyType": "PGDip",
-        "location": "London, UK",
-        "website": "https://london.ac.uk/",
-        "startDate": "2020-11-12",
-        "summary": "Academic direction from The London School of Economics"
       },
       {
         "institution": "University of Deusto",
@@ -104,14 +151,6 @@
         "summary": "CEC is the international network of the circular economy field which builds strong local clubs who design, implement and support circular local initiatives."
       }
     ],
-    "awards": [
-      {
-        "title": "Digital Compreion Pioneer Award",
-        "date": "2014-11-01",
-        "awarder": "Techcrunch",
-        "summary": "There is no spoon."
-      }
-    ],
     "publications": [
       {
         "name": "Video compression for 3d media",
@@ -123,13 +162,15 @@
     ],
     "skills": [
       {
-        "name": "Web Development",
-        "level": "Master",
-        "keywords": ["HTML", "CSS", "Javascript"]
+        "name": "hard_skills",
+        "keywords": ["Git", "GitHub", "Bash", "HTML5", "CSS3", "SCRUM"]
       },
       {
-        "name": "Programming Languages",
-        "level": "Master",
+        "name": "soft_skills",
+        "keywords": ["Team player", "Innovative", "Resilient", "Reliable"]
+      },
+      {
+        "name": "programming_languages",
         "keywords": ["C", "C++", "Javascript"]
       }
     ],
