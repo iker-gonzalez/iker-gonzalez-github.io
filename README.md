@@ -1,17 +1,7 @@
-# Autumn Theme for JSON Resume
+## Portfolio website
 
-This is the Autumn theme for the [JSON Resume](https://jsonresume.org/) project. It is built using [Tailwind CSS](https://tailwindcss.com/).
+This is my portfolio website showcasing some of the most recent projects I have been working on. 
 
-## Development / Extension
+It also resembles my working experience and education along with my hard and soft skills.
 
-The theme is built using Gulp for compiling handlebars templates and Tailwind CSS.
-
-To customize this theme or use this as a template to write your own you will need node.js and NPM installed on your system.
-
-Clone this repository, install the dependencies with `npm install`, and for development run `npm run dev` and you will have the current theme served at localhost:6660. If you add your resume file `resume.json` on the root folder at the project, it will use your resume, otherwise it will be the sample resume provided.
-
-Any changes you make to any file in the `views` and `styles` folders will be reflected in the result (you still need to refresh the page).
-
-## License
-
-Available under [the MIT license](http://mths.be/mit).
+![Check it out here!](https://www.ikergonzalez.dev/)
