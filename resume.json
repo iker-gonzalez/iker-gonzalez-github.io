@@ -27,6 +27,14 @@
     },
     "projects": [
       {
+        "title": "CPP Piscine - C++",
+        "subtitle": "Polymorphism, Inheritance, References, Operator overloads, Interfaces, Virtual, Exceptions, Casts, Templates, STL",
+        "website": "https://github.com/iker-gonzalez/cpp_piscine",
+        "highlights": [
+          "42 'piscine' which resembles a coding bootcamp on C++"
+        ]
+      },
+      {
         "title": "Minishell - C",
         "subtitle": "Signals, Processes, Pipes, Readline",
         "website": "https://github.com/iker-gonzalez/42_minishell",
@@ -38,7 +46,7 @@
       {
         "title": "Philosophers - C",
         "subtitle": "Multithreading, Pthread API, Mutexes, Processes, Semaphores",
-        "website": "https://github.com/iker-gonzalez/42_cursus/tree/main/10_philosophers",
+        "website": "https://github.com/iker-gonzalez/philosophers",
         "highlights": [
           "42's take on the classic Dining philosophers problem",
           "Mandatory part with threads and mutexes; bonus part with processes and semaphores"
@@ -47,16 +55,16 @@
       {
         "title": "Push Swap - C",
         "subtitle": "Sorting algorithm, Linked lists",
-        "website": "https://github.com/iker-gonzalez/42_cursus/tree/main/06_push_swap",
+        "website": "https://github.com/iker-gonzalez/push_swap",
         "highlights": [
           "Sort data on a stack, with a limited set of instructions, using the lowest possible number of actions",
           "The two available stacks were managed with linked lists"
         ]
       },
       {
-        "title": "So Long",
+        "title": "So Long - C",
         "subtitle": "Signals, Bitwise operations",
-        "website": "https://github.com/iker-gonzalez/42_cursus/tree/main/07_so_long",
+        "website": "https://github.com/iker-gonzalez/so_long",
         "highlights": [
           "Small top-down, 2D game with textures, sprites, and basic gameplay",
           "Move the character around and collect enough collectibles to unlock the exit",
@@ -64,9 +72,9 @@
         ]
       },
       {
-        "title": "Minitalk",
+        "title": "Minitalk - C",
         "subtitle": "MiniLibX",
-        "website": "https://github.com/iker-gonzalez/42_cursus/tree/main/08_minitalk",
+        "website": "https://github.com/iker-gonzalez/minitalk",
         "highlights": [
           "Small data exchange program using UNIX signals and bitwise operations",
           "A server listens for signals emitted by a client. The client receives a string as a parameter and sends it as binary to the server. The server receives the signals and output them to the console"
@@ -80,6 +88,7 @@
         "position": "CTO & Co-founder",
         "website": "https://www.aiagasesores.com/",
         "startDate": "2018-12-01",
+        "endDate": "2022-06-01",
         "summary": "Aiag Asesores is a tech-centric small business consulting firm focused on providing tailored legal, tax, labor and bookeping services.",
         "highlights": [
           "Build the digital presence of the company from scratch",
@@ -163,7 +172,7 @@
     "skills": [
       {
         "name": "hard_skills",
-        "keywords": ["Git", "GitHub", "Bash", "HTML5", "CSS3", "SCRUM"]
+        "keywords": ["Git", "GitHub", "Linux", "Bash", "HTML5", "CSS3", "SCRUM"]
       },
       {
         "name": "soft_skills",
