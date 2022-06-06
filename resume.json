@@ -63,7 +63,7 @@
       },
       {
         "title": "So Long - C",
-        "subtitle": "Signals, Bitwise operations",
+        "subtitle": "MiniLibX",
         "website": "https://github.com/iker-gonzalez/so_long",
         "highlights": [
           "Small top-down, 2D game with textures, sprites, and basic gameplay",
@@ -73,7 +73,7 @@
       },
       {
         "title": "Minitalk - C",
-        "subtitle": "MiniLibX",
+        "subtitle": "Signals, Bitwise operations",
         "website": "https://github.com/iker-gonzalez/minitalk",
         "highlights": [
           "Small data exchange program using UNIX signals and bitwise operations",
