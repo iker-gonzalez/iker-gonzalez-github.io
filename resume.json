@@ -27,6 +27,14 @@
     },
     "projects": [
       {
+        "title": "Cub3D - C",
+        "subtitle": "Raycasting, Algorithms, MiniLibX, Key Hooks, Graphic Design, Windows, Events, Mathematics",
+        "website": "https://github.com/iker-gonzalez/cub3d",
+        "highlights": [
+          "Small simulated 3D game done using raycasting principles and inspired by the famous Wolfenstein 3D game"
+        ]
+      },
+      {
         "title": "CPP Piscine - C++",
         "subtitle": "Polymorphism, Inheritance, References, Operator overloads, Interfaces, Virtual, Exceptions, Casts, Templates, STL",
         "website": "https://github.com/iker-gonzalez/cpp_piscine",
