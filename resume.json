@@ -27,6 +27,14 @@
     },
     "projects": [
       {
+        "title": "Ft Containers - C++",
+        "subtitle": "Algorithms, Containers, Templates, Data-structures, Standard Template Library (STL), Operator overloading",
+        "website": "https://github.com/iker-gonzalez/ft_containers",
+        "highlights": [
+          "Reimplementation of stack, vector and map container types of the C++ STL"
+        ]
+      },
+      {
         "title": "Cub3D - C",
         "subtitle": "Raycasting, Algorithms, MiniLibX, Key Hooks, Graphic Design, Windows, Events, Mathematics",
         "website": "https://github.com/iker-gonzalez/cub3d",
@@ -92,11 +100,24 @@
     ],
     "work": [
       {
+        "name": "Reprise Digital",
+        "position": "Developer & SEO Technical Specialist",
+        "website": "https://reprisedigital.com/",
+        "startDate": "2018-07-04",
+        "summary": "Global Leader in Performance Marketing",
+        "highlights": [
+           "Created a fully automated cloud solution that enabled our clients take control of their SEO endeavors",
+           "Worked with REST APIs and Google Cloud Platform (GCP) on automation and software development projects",
+           "Created an application that streamlined the process of elaborating and delivering SEO recommendations",
+           "Worked for top clients such as Real Madrid, Johnson & Johnson, Renfe or Legalitas"
+        ]
+      },
+      {
         "name": "Aiag Asesores",
         "position": "CTO & Co-founder",
         "website": "https://www.aiagasesores.com/",
         "startDate": "2018-12-01",
-        "endDate": "2022-06-01",
+        "endDate": "2022-07-01",
         "summary": "Aiag Asesores is a tech-centric small business consulting firm focused on providing tailored legal, tax, labor and bookeping services.",
         "highlights": [
           "Build the digital presence of the company from scratch",
@@ -180,7 +201,7 @@
     "skills": [
       {
         "name": "hard_skills",
-        "keywords": ["Git", "GitHub", "Linux", "Bash", "HTML5", "CSS3", "SCRUM"]
+        "keywords": ["Git", "GitHub", "GSC", "Linux", "Bash", "HTML5", "CSS3", "SCRUM"]
       },
       {
         "name": "soft_skills",
