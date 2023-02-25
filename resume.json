@@ -27,6 +27,14 @@
     },
     "projects": [
       {
+        "title": "Webserv - C++",
+        "subtitle": "HTTP protocol, Client-Server arquitecture, NGINX, CGI, Sockets, fcntl",
+        "website": "https://github.com/iker-gonzalez/webserv",
+        "highlights": [
+          "Development of HTTP server from scratch using C++. Testing is made with an actual browser."
+        ]
+      },
+      {
         "title": "Ft Containers - C++",
         "subtitle": "Algorithms, Containers, Templates, Data-structures, Standard Template Library (STL), Operator overloading",
         "website": "https://github.com/iker-gonzalez/ft_containers",
