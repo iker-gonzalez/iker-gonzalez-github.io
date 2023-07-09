@@ -4,7 +4,7 @@
       "label": "Software Developer",
       "picture": "http://www.piedpiper.com/app/themes/pied-piper/dist/images/richard.png",
       "email": "ikergpe@gmail.com",
-      "summary": "After co-founding Aiag and building the company's digital infrastructure, I am eager to grow as a software developer in a dynamic and progressive company where my skills are utilized to the fullest extent possible.",
+      "summary": "As an innovative and entrepreneurial professional, I thrive when given the autonomy and freedom to take ownership of projects and make decisions that drive impactful results. I am motivated by working with individuals who push boundaries and challenge the status quo, as I believe in the power of collaboration to achieve greatness. With a highly analytical mindset, I excel at dissecting complex problems and finding creative solutions. My business-oriented approach allows me to see the bigger picture and make strategic decisions that align with organizational goals. I have a passion for lifelong learning and continuously strive to expand my knowledge and skill set. Adapting to new technologies and trends is a priority for me, as I understand the importance of staying ahead in a rapidly evolving landscape. In my portfolio, you will find evidence of my ability to innovate, take ownership, and drive results. I am excited to contribute my expertise and work alongside like-minded individuals who are dedicated to making a difference.",
       "location": {
         "address": "Newell Road",
         "postalCode": "94303",
@@ -27,7 +27,7 @@
     },
     "projects": [
       {
-        "title": "Webserv - C++",
+        "title": "Webserv - C++, Python, JS",
         "subtitle": "HTTP protocol, Client-Server arquitecture, NGINX, CGI, Sockets, fcntl",
         "website": "https://github.com/iker-gonzalez/webserv",
         "highlights": [
@@ -111,7 +111,7 @@
         "name": "Reprise Digital",
         "position": "Developer & SEO Technical Specialist",
         "website": "https://reprisedigital.com/",
-        "startDate": "2018-07-04",
+        "startDate": "2022-07-04",
         "summary": "Global Leader in Performance Marketing",
         "highlights": [
            "Created a fully automated cloud solution that enabled our clients take control of their SEO endeavors",
@@ -152,7 +152,7 @@
       {
         "institution": "42",
         "area": "Computer Science",
-        "studyType": "Program",
+        "studyType": "RNCP 6 - Equivalent to Bachelor's Degree",
         "location": "Urduliz, Basque Country",
         "website": "https://42.fr/en/homepage/",
         "startDate": "2021-04-12",
@@ -213,11 +213,11 @@
       },
       {
         "name": "soft_skills",
-        "keywords": ["Team player", "Innovative", "Resilient", "Reliable"]
+        "keywords": ["Team player", "Innovative", "Resilient", "Business-oriented"]
       },
       {
         "name": "programming_languages",
-        "keywords": ["C", "C++", "Javascript"]
+        "keywords": ["C", "C++", "Python", "SQL", "Javascript"]
       }
     ],
     "languages": [
