@@ -151,6 +151,7 @@
     "education": [
       {
         "institution": "Google Cloud Platform (GCP)",
+        "area": "GCP",
         "studyType": "Professional Data Engineer",
         "location": "Remote",
         "website": "https://cloud.google.com/learn/certification/data-engineer",
