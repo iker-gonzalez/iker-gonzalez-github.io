@@ -1,7 +1,7 @@
 {
     "basics": {
       "name": "Iker Gonzalez",
-      "label": "Software Developer",
+      "label": "Software Architect",
       "picture": "http://www.piedpiper.com/app/themes/pied-piper/dist/images/richard.png",
       "email": "ikergpe@gmail.com",
       "summary": "As an innovative and entrepreneurial professional, I thrive when given the autonomy and freedom to take ownership of projects and make decisions that drive impactful results. I am motivated by working with individuals who push boundaries and challenge the status quo, as I believe in the power of collaboration to achieve greatness. With a highly analytical mindset, I excel at dissecting complex problems and finding creative solutions. My business-oriented approach allows me to see the bigger picture and make strategic decisions that align with organizational goals. I have a passion for lifelong learning and continuously strive to expand my knowledge and skill set. Adapting to new technologies and trends is a priority for me, as I understand the importance of staying ahead in a rapidly evolving landscape. In my portfolio, you will find evidence of my ability to innovate, take ownership, and drive results. I am excited to contribute my expertise and work alongside like-minded individuals who are dedicated to making a difference.",
@@ -26,6 +26,14 @@
       ]
     },
     "projects": [
+      {
+        "title": "Transcendence - TypeScript, ReactJS, NestJS, PostgreSQL, Docker, Sockets",
+        "subtitle": "OAuth, 2 Factor Auth, Docker, Sockets",
+        "website": "https://github.com/iker-gonzalez/ft_transcendence",
+        "highlights": [
+          "Unleash the ultimate Pong experience with our web app! Secure logins via 42 school OAuth, two-factor authentication, stats tracking, messaging, and live game sessions. Built with TypeScript, ReactJS, NestJS, and PostgreSQL, all neatly containerized with Docker for a seamless experience."
+        ]
+      },
       {
         "title": "Webserv - C++, Python, JS",
         "subtitle": "HTTP protocol, Client-Server arquitecture, NGINX, CGI, Sockets, fcntl",
@@ -108,16 +116,32 @@
     ],
     "work": [
       {
+        "name": "Deutsche Telekom",
+        "position": "Software Architect",
+        "website": "https://www.telekom.com/en",
+        "startDate": "2023-09-21",
+        "summary": "Part of Telekom's Energy Cloud Enabling Squad, driving the digitalization of our energy consumption data.",
+        "highlights": [
+           "Architecting a big data project to seamlessly transition data into Google Cloud, managing data, CI/CD pipelines, and ensuring multi-cloud and on-premises integration.",
+           "Deploying infrastructure efficiently with Terraform and making the most of BigQuery for advanced analytics and seamless data processing.",
+           "Crafting comprehensive architecture documentation for stakeholders and future maintainers, emphasizing multi-cloud and on-premises considerations.",
+           "Driving projects with SCRUM and agile methodologies, ensuring adaptability and efficiency.",
+           "Utilizing a tech stack focused on Python and Go for software development, ensuring compatibility across diverse environments."
+        ]
+      },
+      {
         "name": "Reprise Digital",
-        "position": "Developer & SEO Technical Specialist",
+        "position": "Software Developer",
         "website": "https://reprisedigital.com/",
         "startDate": "2022-07-04",
-        "summary": "Global Leader in Performance Marketing",
+        "endDate": "2023-09-20",
+        "summary": "Creating software solution in Google Cloud for global brands within the digital marketing space.",
         "highlights": [
-           "Created a fully automated cloud solution that enabled our clients take control of their SEO endeavors",
-           "Worked with REST APIs and Google Cloud Platform (GCP) on automation and software development projects",
-           "Created an application that streamlined the process of elaborating and delivering SEO recommendations",
-           "Worked for top clients such as Real Madrid, Johnson & Johnson, Renfe or Legalitas"
+           "Developed Equilibrium, a comprehensive cloud solution that facilitates collaboration between SEO and SEM teams for efficient campaign cost optimization.",
+           "Engineered sophisticated data pipelines to empower clients in making real-time data-driven choices.",
+           "Constructed a comprehensive application stack to streamline the process of generating and delivering SEO recommendations.",
+           "Utilized JavaScript, Python, REST APIs, Bigquery, Compute Engine, and Google Cloud Platform (GCP) for automation, data engineering, and software development initiatives.",
+           "Engaged with renowned clients including Real Madrid, Johnson & Johnson, Dyson, Renfe, and Legalitas."
         ]
       },
       {
@@ -126,25 +150,15 @@
         "website": "https://www.aiagasesores.com/",
         "startDate": "2018-12-01",
         "endDate": "2022-07-01",
-        "summary": "Aiag Asesores is a tech-centric small business consulting firm focused on providing tailored legal, tax, labor and bookeping services.",
+        "summary": "As one of the co-founders, I gained a comprehensive understanding of the end-to-end process of initiating and maintaining a thriving business.",
         "highlights": [
-          "Build the digital presence of the company from scratch",
-          "Orquestrated back-end automations using Zapier and Google Apps Script (Javascript)",
-          "Website development and SEO (positioned first on Googlein various long tail keywords)",
-          "Developed the companies ERP with Apsheet's technology"
-        ]
-      },
-      {
-        "name": "Environment Agency",
-        "position": "Planning Advisor Intern",
-        "website": "https://www.gov.uk/government/organisations/environment-agency",
-        "startDate": "2018-07-01",
-        "endDate": "2018-10-01",
-        "highlights": [
-          "Constraints check using Easimap2 Permitting software",
-          "Environmental Impact Assessments (EIA)",
-          "Meetings between developers, Local Planning Authorities (LPA) and Environment Agency's consultees",
-          "Team working along with Biodiversity, Fisheries, Flood Risk, Strategic Planning and Groundwater Contamination teams"
+          "As one of the co-founders, I gained a comprehensive understanding of the end-to-end process of initiating and maintaining a thriving business.",
+          "Technical expertise: Proficient in web and software development, automation techniques, and search engine optimization (SEO).",
+          "Skilled in project management: Consistently delivering results within strict timeframes.",
+          "Proficient in marketing and sales: Successfully acquiring clients and generating revenue.",
+          "Experienced in finance: Knowledgeable in accounting practices, tax regulations, and loan management.",
+          "Engaged in research and development (R&D): Continuously adapting to emerging trends and acquiring new knowledge.",
+          "Well-versed in interpersonal skills: Effectively managing team dynamics and meeting client expectations."
         ]
       }
     ],
@@ -217,15 +231,15 @@
     "skills": [
       {
         "name": "hard_skills",
-        "keywords": ["Git", "GitHub", "GCP", "SEO", "Linux", "Bash", "HTML5", "CSS3", "SCRUM"]
+        "keywords": ["CI / CD", "UML", "Docker", "Infrastructure as Code (IaC)", "Big Data", "Terraform", "Git", "GitHub", "GCP", "SEO", "Linux", "Bash", "HTML5", "CSS3", "React", "SCRUM"]
       },
       {
         "name": "soft_skills",
-        "keywords": ["Team player", "Innovative", "Resilient", "Business-oriented"]
+        "keywords": ["Team player", "Innovative", "Resilient", "Business-oriented", "Analytical", "Adaptable", "Self-motivated", "Creative", "Entrepreneurial", "Lifelong learner"]
       },
       {
         "name": "programming_languages",
-        "keywords": ["C", "C++", "Python", "SQL", "Javascript"]
+        "keywords": ["C", "C++", "Python", "SQL", "Javascript", "TypeScript"]
       }
     ],
     "languages": [
