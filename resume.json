@@ -1,7 +1,7 @@
 {
     "basics": {
       "name": "Iker Gonzalez",
-      "label": "Software Architect",
+      "label": "Software Architect @Deutsche Telekom",
       "picture": "http://www.piedpiper.com/app/themes/pied-piper/dist/images/richard.png",
       "email": "ikergpe@gmail.com",
       "summary": "As an innovative and entrepreneurial professional, I thrive when given the autonomy and freedom to take ownership of projects and make decisions that drive impactful results. I am motivated by working with individuals who push boundaries and challenge the status quo, as I believe in the power of collaboration to achieve greatness. With a highly analytical mindset, I excel at dissecting complex problems and finding creative solutions. My business-oriented approach allows me to see the bigger picture and make strategic decisions that align with organizational goals. I have a passion for lifelong learning and continuously strive to expand my knowledge and skill set. Adapting to new technologies and trends is a priority for me, as I understand the importance of staying ahead in a rapidly evolving landscape. In my portfolio, you will find evidence of my ability to innovate, take ownership, and drive results. I am excited to contribute my expertise and work alongside like-minded individuals who are dedicated to making a difference.",
@@ -27,11 +27,19 @@
     },
     "projects": [
       {
-        "title": "Transcendence - TypeScript, ReactJS, NestJS, PostgreSQL, Docker, Sockets",
+        "title": "Transcendence - TypeScript, ReactJS, NestJS, PostgreSQL",
         "subtitle": "OAuth, 2 Factor Auth, Docker, Sockets",
         "website": "https://github.com/iker-gonzalez/ft_transcendence",
         "highlights": [
           "Unleash the ultimate Pong experience with our web app! Secure logins via 42 school OAuth, two-factor authentication, stats tracking, messaging, and live game sessions. Built with TypeScript, ReactJS, NestJS, and PostgreSQL, all neatly containerized with Docker for a seamless experience."
+        ]
+      },
+      {
+        "title": "Inception - Docker, Shell",
+        "subtitle": "NGINX, MariaDB, WordPress, Docker, Shell",
+        "website": "https://github.com/iker-gonzalez/inception",
+        "highlights": [
+          "Utilizing a Virtual Machine (VM) and Docker containers, this project orchestrates a secure system architecture with volume management, Docker networking, and TLS encryption, hosting services like NGINX, WordPress, and MariaDB"
         ]
       },
       {
@@ -235,7 +243,7 @@
       },
       {
         "name": "soft_skills",
-        "keywords": ["Team player", "Innovative", "Resilient", "Business-oriented", "Analytical", "Adaptable", "Self-motivated", "Creative", "Entrepreneurial", "Lifelong learner"]
+        "keywords": ["Leadership", "Team player", "Innovative", "Resilient", "Business-oriented", "Analytical", "Adaptable", "Self-motivated", "Creative", "Entrepreneurial", "Lifelong learner"]
       },
       {
         "name": "programming_languages",
