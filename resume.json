@@ -185,7 +185,6 @@
         "studyType": "RNCP 6 - Equivalent to Bachelor's Degree",
         "location": "Urduliz, Basque Country",
         "website": "https://42.fr/en/homepage/",
-        "startDate": "2021-04-12",
         "summary": "No teachers, peer to peer learning, open 24/7, gamified project-based methodology, international network. One of the most innovative coding schools in the world."
       },
       {
@@ -194,7 +193,6 @@
         "studyType": "PGDip",
         "location": "London, UK",
         "website": "https://london.ac.uk/",
-        "startDate": "2020-11-12",
         "summary": "Academic direction from The London School of Economics"
       },
       {
@@ -203,8 +201,6 @@
         "studyType": "MSc",
         "location": "London, UK",
         "website": "https://www.brunel.ac.uk/",
-        "startDate": "2018-01-12",
-        "endDate": "2019-07-12",
         "summary": "Grade: Distinction"
       },
       {
@@ -213,8 +209,6 @@
         "studyType": "LLB",
         "location": "Bilbao, Spain",
         "website": "https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto",
-        "startDate": "2012-09-12",
-        "endDate": "2016-07-12",
         "summary": "Grade: First-Class Honours"
       }
     ],
